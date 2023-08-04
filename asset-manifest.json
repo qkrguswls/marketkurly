@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/marketkurly/static/css/main.a9a9cab0.css",
-    "main.js": "/marketkurly/static/js/main.8bd03db9.js",
+    "main.js": "/marketkurly/static/js/main.192fdc16.js",
     "static/media/92caebda-2c7b-4ee8-8d43-d2df9c21e703.png": "/marketkurly/static/media/92caebda-2c7b-4ee8-8d43-d2df9c21e703.573cf8a92619fe8cb52c.png",
     "static/media/deliveryInfo.png": "/marketkurly/static/media/deliveryInfo.faf33b2327b3ef630758.png",
     "static/media/notice_14_14_f03f40.svg": "/marketkurly/static/media/notice_14_14_f03f40.1d1e8f5e93c926fcf81a.svg",
@@ -16,10 +16,10 @@
     "static/media/arrow_up.svg": "/marketkurly/static/media/arrow_up.0eeda80f4277fc27ef5f2b1cf7aadecd.svg",
     "static/media/arrow_right.svg": "/marketkurly/static/media/arrow_right.42809190e4b3d747003f.svg",
     "main.a9a9cab0.css.map": "/marketkurly/static/css/main.a9a9cab0.css.map",
-    "main.8bd03db9.js.map": "/marketkurly/static/js/main.8bd03db9.js.map"
+    "main.192fdc16.js.map": "/marketkurly/static/js/main.192fdc16.js.map"
   },
   "entrypoints": [
     "static/css/main.a9a9cab0.css",
-    "static/js/main.8bd03db9.js"
+    "static/js/main.192fdc16.js"
   ]
 }
